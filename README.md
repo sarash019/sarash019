@@ -3,7 +3,7 @@
 <br/>
 
 - 🎓 I'm currently pursuing Engineering in Computer Science(Data Science)
-- 🌱 I’m currently learning **AI & ML, Web Development, Application and GUI development**.
+- 🌱 I’m currently learning **Data Structures and Algorithm Building, Web Development, Application and GUI development**.
 - 💻 All of my projects are available at https://github.com/sarash019
 - 📧 How to reach me: **sarashsingh019@gmail.com**
 - 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1Pq-eUOgO12dCd20l_8sikGrIJv50Bkqf/view?usp=drivesdk)
