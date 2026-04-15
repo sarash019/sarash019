@@ -6,7 +6,7 @@
 - 🌱 "Currently expanding my expertise in DSA, Full-stack Web Development, and building Desktop Applications (GUI)."
 - 💻 All of my projects are available at https://github.com/sarash019
 - 📧 How to reach me: **sarashsingh019@gmail.com**
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1Pq-eUOgO12dCd20l_8sikGrIJv50Bkqf/view?usp=drivesdk)
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1WPrWkoqywRNcnuOK06K-lopxz5Hr3unl/view?usp=drive_link)
 
 <br/>
 
