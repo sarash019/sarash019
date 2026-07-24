@@ -1,4 +1,4 @@
-<h3 align="center">Coding Enthusiast || Passionate about Algorithms & Application Development</h3>
+<h3 align="center">Coding Enthusiast || Passionate about Algorithms, Databases and Machine Learning.</h3>
 
 <br/>
 
