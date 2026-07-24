@@ -6,7 +6,7 @@
 - 🌱 "Currently expanding my expertise in DSA, Structured Databases and Architecturing end-to-end Machine Learning Pipelines."
 - 💻 All of my projects are available at https://github.com/sarash019
 - 📧 How to reach me: **sarashsingh019@gmail.com**
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1WPrWkoqywRNcnuOK06K-lopxz5Hr3unl/view?usp=drive_link)
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1Pq-eUOgO12dCd20l_8sikGrIJv50Bkqf/view?usp=drive_link)
 
 <br/>
 
