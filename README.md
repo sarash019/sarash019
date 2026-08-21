@@ -34,7 +34,7 @@
     <td><a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></td>
     <!-- <td><a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a></td>
     <td><a href="https://www.tableau.com/" target="_blank"><img src="https://www.tableau.com/themes/custom/tableau_www/logo.v2.svg" alt="tableau" width="40" height="40"/></a></td> -->
-    <td><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a></td>
+    <td><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="csharp" width="40" height="40"/></a></td>
   </tr>
 </table>
 
